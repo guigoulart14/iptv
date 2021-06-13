@@ -1,5 +1,8 @@
 #EXTM3U 
 
+#EXTINF:-1 tvg-logo="http://download.firenetwork.com.br/midias/cloud2/Series/Loki/cover.jpg" group-title="LOKI (1ª TEMPORADA)", EP "1"
+http://download.firenetwork.com.br/midias/cloud2/Series/Loki/S01-Loki/S01E01-Loki_1080p.mp4
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w185/qOxedwaJzdms2alAmIEHEnDeDzg.jpg" group-title="NARUTO SHIPPUDEN (4ª TEMPORADA)", EP "86_E_87"
 http://download.firenetwork.com.br/midias/cloud2/Series/Naruto%20Shippuden/S04-Naruto%20Shippuuden/narutoPROJECT_-_Shippuuden_086-087.mp4
 
